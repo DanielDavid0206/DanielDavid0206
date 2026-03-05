@@ -1,4 +1,6 @@
 # 🕒 Reloj Digital con Alarma – Python Tkinter
+## 📸 Vista de la Aplicación
+<img width="1423" height="731" alt="Screenshot_1" src="https://github.com/user-attachments/assets/83234510-b056-4fb7-9dd2-90860e2c190c" />
 
 ## 📌 Descripción del Proyecto
 Este proyecto consiste en una aplicación de escritorio desarrollada en Python utilizando la librería Tkinter. 
